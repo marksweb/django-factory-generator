@@ -112,6 +112,7 @@ Here are all the settings you can use, with their default value :
    FACTORY_IGNORE_FIELDS = []
    FACTORY_ROOT_DIR = 'model_factories'
    FACTORY_IGNORE_NON_EDITABLE_FIELDS = True
+   FACTORY_INCLUDED_APPS = []
 
 Todo
 ----
